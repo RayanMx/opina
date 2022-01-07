@@ -31,15 +31,15 @@
     
                     <div class="mx-auto align-self-center px-4 my-5">
     
-                        <h2 class="text-primary text-center">Primera Campaña de Opinión Ciudadana sobre Trámites Gubernamentales</h2>
+                        <h2 class="text-primary text-center">Gracias por compartirnos tu opinión y ayudarnos a identificar cual es el trámite mas engorroso.</h2>
     
-                        <p class="lead mb-4 text-center">{!! $inicio['descripcion'] !!}</p>
-
-                        <p class="lead mb-4 text-center">(Favor de dar click en el siguiente botón para comenzar el proceso)
-                        </p>
+                         <p class="lead mb-4 text-center">Los resultados se darán a conocer una vez finalizado el análisis.  </p>
+ <!--
+                         <p class="lead mb-4 text-center">(Favor de dar click en el siguiente botón para comenzar el proceso)
+                        </p> 
     
                         <a href="{{ route('home.categorias') }}" class="btn btn-primary mb-5">Encuestas</a>       
-                
+                -->
                     </div>
     
                 </div>
